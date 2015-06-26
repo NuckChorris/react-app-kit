@@ -1,0 +1,23 @@
+{
+  "name": "modspace-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Peter Lejeck <me@plejeck.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "broccoli": "^0.16.3",
+    "broccoli-autoprefixer": "^3.0.0",
+    "broccoli-babel-transpiler": "^5.0.0",
+    "broccoli-bower": "^0.2.1",
+    "broccoli-concat": "0.0.13",
+    "broccoli-env": "0.0.1",
+    "broccoli-es6modules": "^1.0.0",
+    "broccoli-imagemin": "^0.2.1",
+    "broccoli-jshint": "^0.5.6",
+    "broccoli-merge-trees": "^0.2.1",
+    "broccoli-sass": "^0.6.6",
+    "broccoli-stew": "^0.3.3",
+    "broccoli-uglify-js": "^0.1.3"
+  }
+}
